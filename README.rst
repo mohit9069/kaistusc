@@ -1,4 +1,4 @@
-KAIST USC: KAIST Undergraduate computer science engineering Student Council Website on Django
+KAIST UCSESC: KAIST Undergraduate computer science engineering Student Council Website on Django
 ================================================================
 
 Welcome to **KAIST USC**!
