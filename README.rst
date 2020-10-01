@@ -1,9 +1,9 @@
 KAIST UCSESC: KAIST Undergraduate computer science engineering Student Council Website on Django
 ================================================================
 
-Welcome to **KAIST USC**!
+Welcome to **KAIST UCSESC**!
 
-**KAIST USC** is the open source project to construct `KAIST Undergraduate Student Council Website`_ on `Django`_ to make memebers participate in USC well. This project includes front-ent and back-end sources with a production enviornment settings by using `Docker`_.
+**KAIST UCSESC** is the open source project to construct `KAIST Undergraduate computer science engineering Student Council Website`_ on `Django`_ to make memebers participate in USC well. This project includes front-ent and back-end sources with a production enviornment settings by using `Docker`_.
 
 
 Deploy
@@ -50,6 +50,6 @@ See https://hangpark.github.io/kaistusc/ (Korean)
 or https://student.kaist.ac.kr/docs/ (Korean)
 
 
-.. _`KAIST Undergraduate Student Council Website`: https://student.kaist.ac.kr/
+.. _`KAIST Undergraduate computer science engineering Student Council Website`: https://student.kaist.ac.kr/
 .. _Django: https://djangoproject.com/
 .. _Docker: https://www.docker.com/
